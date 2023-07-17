@@ -19,7 +19,7 @@ python Test.py
 
 ## Tips:
 ### For training:
-* [CAVE Dataset](https://github.com/ymonno/EARI-Polarization-Demosaicking) (extraction code:q4a5)
+* [CAVE Dataset](https://pan.baidu.com/s/1jEJZI-H5hjFeJKVeeSDT5Q) (extraction code: rp39)
 * The pre-trained model is provided in the "CAVE/Checkpoint/f4/Model_DSP" folder.
 
 If you have any question, please email to me (ycsunner@gmail.com).
